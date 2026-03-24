@@ -1,4 +1,4 @@
-Project: EventFlow Analytics Engine
+### Project: EventFlow Analytics Engine
 
 ### 📖 The One-Sentence Pitch
 "A high-volume backend data pipeline that asynchronously ingests user event streams and automatically calculates business intelligence metrics like conversion funnels in the background."
